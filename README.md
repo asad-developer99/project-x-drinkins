@@ -2,7 +2,7 @@
 
 A scroll-driven landing page for a craft drink brand, built with **GSAP + ScrollTrigger**. A hero bottle follows the visitor down the page, pinning and tilting from section to section, while a one-click **theme switch** swaps the entire look (colors, font and bottle image) between two brand identities.
 
-**Live site:** [https://project-drinkins.vercel.app/](https://project-drinkins.vercel.app/)
+**Live site:** https://project-drinkins.vercel.app/
 
 ---
 
